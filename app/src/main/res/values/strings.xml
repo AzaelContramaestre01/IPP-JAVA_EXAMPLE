@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="text_welcome">Bienvenido a la aplicación del clima</string>
+    <string name="button_current_forecast">Pronóstico actual</string>
+    <string name="button_city_list">Listado de ciudades</string>
+    <string name="weather_icon">Icono del clima</string>
+    <string name="condition_clouds">Nublado</string>
+    <string name="condition_sunny">Soleado</string>
+    <string name="condition_rainy">Lluvioso</string>
+</resources>
